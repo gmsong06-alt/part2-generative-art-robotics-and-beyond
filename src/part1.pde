@@ -18,6 +18,7 @@ void draw() {
   loadPixels();
   calculateMandelbrot();
   updatePixels();
+  save("output.png");
 }
 
 // DO NOT CHANGE
