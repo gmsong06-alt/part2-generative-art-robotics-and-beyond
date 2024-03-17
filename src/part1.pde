@@ -56,7 +56,7 @@ int calculateMandelbrotValue(float cx, float cy) {
   int n = 1;
   
   while (n < maxIterations) {
-    // STEP 1: Implement Formula A
+    // STEP 1: Implement Formula
   }
   
   return n;
